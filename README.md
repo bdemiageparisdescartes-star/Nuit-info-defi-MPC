@@ -23,3 +23,7 @@ Un script SQL pour la mise en place de la base de données est disponible à l�
 ## Eléments attendus 
 - Code source complet (Frontend + Backend), rendu via un dépôt GitHub ou GitLab 
 - Un fichier README listant les fonctionnalités réalisées et comment lancer de A à Z votre app
+
+
+## Warning
+Pour utiliser les comptes, créez les utilisateurs via votre interface. Il est impossible de les insérer en avance sans imposer un algorithme de hachage de mot de passe.
