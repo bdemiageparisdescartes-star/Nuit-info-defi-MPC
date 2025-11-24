@@ -27,3 +27,6 @@ Un script SQL pour la mise en place de la base de données est disponible à l�
 
 ## Warning
 Pour utiliser les comptes, créez les utilisateurs via votre interface. Il est impossible de les insérer en avance sans imposer un algorithme de hachage de mot de passe.
+
+## Schéma BDD
+![BDD](BDD_schéma.png)
